@@ -1,0 +1,28 @@
+{
+  "name": "next-events",
+  "productName": "NextEvents",
+  "version": "1.0.0",
+  "description": "A social networking site using Next.js, MongoDB and Firebase.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solygambas/next-projects.git"
+  },
+  "author": "solygambas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solygambas/next-projects/issues"
+  },
+  "homepage": "https://github.com/solygambas/next-projects#readme",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.4",
+    "next": "10.0.6",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "swr": "^0.4.2"
+  }
+}
